@@ -20,4 +20,5 @@ public class ConcreteWebSite extends WebSite {
     public void use() {
         System.out.println("网站的发布形式为："+ type +"，开始工作.. ");
     }
+
 }
